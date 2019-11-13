@@ -1,1 +1,1 @@
-This example belongs to this StackOverflow question: <XXXX>
+This example belongs to the StackOverflow question <https://stackoverflow.com/questions/58840467/flatten-plugin-resolve-dependencymanagement-of-bom-without-inherited>
