@@ -1,0 +1,8 @@
+### JetBrains template
+.idea
+*.iml
+
+### Maven template
+target/
+.flattened-pom.xml
+
